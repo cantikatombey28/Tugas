@@ -29,5 +29,7 @@ const
 3. Perubahan Nilai
 
 final → tidak bisa diubah
+
 const → tidak bisa diubah
+
 Keduanya sama-sama immutable, tapi cara penentuannya berbeda.
